@@ -1,0 +1,122 @@
+html{
+  background: aqua;
+}
+.navbar-brand{
+      font-size: 30px;
+      color: white;
+      position: absolute;
+      left: 16px;
+}
+
+.nav-link1{
+  position: absolute;
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+  top: 10px;
+  left: 200px;
+}
+.nav-link2{
+  position: absolute;
+  text-decoration: none;
+  color: white;
+  left: 600px;
+  top: 10px;
+  font-size: 30px;
+}
+.nav-link3{
+  position: absolute;
+  text-decoration: none;
+  color: white;
+  left: 1100px;
+  font-size: 30px;
+  top: 10px;
+}
+
+.addnew{
+  border: 2px solid black;
+  border-radius: 20px;
+  position: absolute;
+  top: 124px;
+  right: 607px;
+  height: 50px;
+  width: 200px;
+  background-color: whitesmoke;
+  text-decoration: none;
+  font-size: 35px;
+  padding: -9px;
+  color: brown;
+  font-weight: bold;
+}
+.table{
+  position: absolute;
+  padding: 24px;
+  left: 445px;
+  top: 201px;
+  border: 2px solid black;
+}
+.newpage{
+  position: absolute;
+  top: 100px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.addbox{
+  position: absolute;
+  top: 200px;
+  left: 100px;
+  height: 400px;
+}
+.num1{
+  font-size: 30px;
+  color: rgb(43, 43, 58);
+  margin-left: 40px;
+  font-weight: bold;
+}
+.input{
+  font-size: 30px;
+  color: rgb(43, 43, 58);
+  margin-left: 40px;
+  font-weight: bold;
+}
+.num2{
+  font-size: 30px;
+  margin-left: 20px;
+}
+.cancel{
+  height: 30px;
+    width: 100px;
+    background-color: magenta;
+    left: 375px;
+    bottom: 181px;
+    border-radius: 38px;
+    position: absolute;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding: 4px;
+}
+.submit{
+  height: 27px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: deeppink;
+    position: absolute;
+    bottom: 182px;
+    left: 500px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding: 5px;}
+.page{
+  position: absolute;
+  top: 300px;
+  left: 40vw;
+  color: brown;
+  background-color: transparent;
+  font-size: 50px;
+  font-weight: bold;
+}
